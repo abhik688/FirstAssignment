@@ -1,0 +1,23 @@
+
+.filter{
+    min-width:210px;
+    text-align: center;  
+}
+
+.btn{
+    background: #79C571 !important;
+    color: #79C571;
+    border-radius:5px;
+    padding: 0.05rem .05rem !important;
+    margin:10px 0px;
+}
+
+.buttons{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;   
+}
+
+.btn:hover{
+    background: green  !important;
+}
